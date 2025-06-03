@@ -1,0 +1,14 @@
+[
+  {
+    "location": "edge",
+    "length": 10.2,
+    "depth": 0.5,
+    "status": "minor"
+  },
+  {
+    "location": "center",
+    "length": 25.0,
+    "depth": 2.1,
+    "status": "critical"
+  }
+]
